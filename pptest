@@ -3,3 +3,6 @@ Push and pull example
 test file 1
 
 example for git and github
+
+This above 3 lines were pushed from local to remote.
+above line alone is pushed from remote to local
